@@ -4,7 +4,7 @@ Subject: Request for Extension on Assignment Submission Deadline
 
 Dear Professor [Name],
 
-I hope this email finds you well. I am Saumy Gupta, 
+I hope this email finds you well. I am Shivin Sinha, 
 a first-year B.Tech (CSE) student at VIT 
 Bhopal University.
 
@@ -34,7 +34,7 @@ Subject: Application for Summer Internship Opportunity
 
 Dear [Name of Internship Coordinator],
 
-I hope this email finds you well. I am Saumy Gupta, 
+I hope this email finds you well. I am Shivn Sinha, 
 a first-year B.Tech student in Computer Science and
 Engineering at VIT Bhopal University.
 
